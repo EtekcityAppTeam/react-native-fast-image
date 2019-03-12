@@ -41,6 +41,20 @@ android {
     lintOptions {
         abortOnError false
     }
+    buildTypes {
+        release {
+
+        }
+
+        debug {
+
+        }
+
+
+        releaseStaging {
+
+        }
+    }
 }
 
 repositories {
